@@ -1,9 +1,24 @@
-# HackTUES_8g_4_Victoria_Dimitrova
-I will not be forgotten
-This is my time to shine
-I've got the scars to prove it
-Only the strong survive
-I'm not afraid of dying
-Everyone has their time
-I've never favored weakness
-Welcome to the pride
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
